@@ -1,4 +1,8 @@
-# How to updates the steps for our Workshop
+# How to updates the solution tags for our Workshops
+
+To reduce work all example solutions in our workshops.de classroom are linked to tags not commits or files. 
+So you can rewrite the commit history with `rebase` without touching anything else.
+It may feels a bit complecated sometimes but it's way easier then manually updating it in every task ;) 
 
 Please replace %COMMIT-HASH-OF_YOUR-INITAL-COMMIT% with our actual commit hash ;)
 
